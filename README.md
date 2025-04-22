@@ -8,7 +8,7 @@ The project files were located in the Project Workspace of Udacity forum and inc
 * **`tests.py`**
 * **`processed-celeba-small.zip`**
 
-### Instructions
+### Summary
 
 The project was completed in the file `dlnd_face_generation_starter.ipynb`. This project was organized as follows:
 
